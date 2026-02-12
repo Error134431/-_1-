@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Проект_1(такси)", "Проект_1(такси).csproj", "{38554465-8A7E-4A2C-81C5-48894A749F81}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverSearch.Core", "..\DriverSearch.Core\DriverSearch.Core.csproj", "{CA226156-8A0A-4F5C-9B01-3F66FBA276EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverSearch.Console", "..\DriverSearch.Console\DriverSearch.Console.csproj", "{295883CE-31C4-42BC-8328-89429B5A6DD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CA226156-8A0A-4F5C-9B01-3F66FBA276EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA226156-8A0A-4F5C-9B01-3F66FBA276EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA226156-8A0A-4F5C-9B01-3F66FBA276EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295883CE-31C4-42BC-8328-89429B5A6DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295883CE-31C4-42BC-8328-89429B5A6DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295883CE-31C4-42BC-8328-89429B5A6DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295883CE-31C4-42BC-8328-89429B5A6DD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
